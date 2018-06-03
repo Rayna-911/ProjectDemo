@@ -1,7 +1,7 @@
 # ProjectDemo
 This is the project demo for the projects I worked on. 
 
-周池项目展示
+项目展示
 
 1. 在亚马逊商城的浏览器登录页面开发实现“让我保持登陆”功能 
 ("Keep me Sign in" feature in Amazon Retail website)
@@ -12,8 +12,7 @@ This is the project demo for the projects I worked on.
 •	评估监测曲线图: 2016/10/4 – 2018/01/09 一共减少了7.9%的登录跳转请求 
 
 (Evaluation and monitoring graph: Avoid 7.9% sign-in globally during 2016/10/4 – 2018/01/09)
-![2](https://user-images.githubusercontent.com/10237409/34809482-1fbd3d5c-f64a-11e7-9d96-6a5b8b581002.png)
- 
+
 2. 在商城浏览器移动端登录和注册页面开发实现“显示密码”功能 ("Show password" feature in Amazon mobile retail website)
 
 •	功能展示(Demo): https://tinyurl.com/yddzrjqj 
@@ -22,9 +21,8 @@ This is the project demo for the projects I worked on.
 •	评估监测曲线图: 2017/01/09 – 2018/01/09 该功能使用情况为70.9% 
 
 (Evaluation and monitoring graph: 70.8% globally usage during 2017/01/09 – 2018/01/09)
-![4](https://user-images.githubusercontent.com/10237409/34809486-23f5920c-f64a-11e7-9cec-36c7aa67a1df.png)
-
  
+ 
 3. 负责亚马逊面向企业客户的Sprint Prime 项目的身份认证及授权业务的设计与开发 (Sprint Prime project on Indentity business)
 
 •	项目展示展示(Demo)：https://tinyurl.com/ycekekov  https://tinyurl.com/ya3zh6nq 
